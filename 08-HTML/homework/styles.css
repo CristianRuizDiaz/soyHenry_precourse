@@ -4,6 +4,7 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    background: url(https://thumbs.dreamstime.com/z/digital-art-illustrator-background-repeat-cube-used-as-background-image-painting-advertising-media-digital-art-140012508.jpg);
 }
 
 #thirdDiv {
