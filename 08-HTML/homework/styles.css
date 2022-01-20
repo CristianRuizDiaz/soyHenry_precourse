@@ -1,0 +1,32 @@
+body {
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#thirdDiv {
+    height: 600;
+    width: 500;
+    background-color: blue;
+    padding: 50px;
+    border: 1px solid aqua;
+}
+
+/* .divClass {
+
+} */
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+h1 {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
